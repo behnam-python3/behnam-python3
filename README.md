@@ -15,7 +15,3 @@
 - **Form Filler Bot** — پر کردن خودکار فرم‌ها از Excel (`/automation-examples/form_filler.py`)
 - **Invoice Manager App** — اپ ویندوز برای مدیریت سفارش‌ها (`/desktop-apps/invoice_manager.py`)
 
-## تماس
-📧 your.email@example.com  
-💬 @your_telegram
-
